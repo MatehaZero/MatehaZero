@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MatehaZero
+- 👀 I’m still searching.
+- 🌱 I’m currently learning C++
